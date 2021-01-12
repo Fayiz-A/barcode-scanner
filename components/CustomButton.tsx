@@ -48,7 +48,7 @@ const styles = (props: Props) =>
     textStyle: {
       fontSize: 20,
       color: 'white',
-      fontFamily: 'cursive',
+      // fontFamily: 'cursive',
       fontWeight: 'bold',
     },
   });
